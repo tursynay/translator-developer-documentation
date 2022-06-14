@@ -4,10 +4,10 @@ This is the primary "developer" software development documentation site for the 
 
 ## Mission of the Biomedical Knowledge Translator 
 
-Introduction ...
+Introduction ... (Nomi)
 
 * (link out to NCATS, etc.) - link to the manuscripts, and the figures in the paper (Kara)
-* with link outs to project materials
+* with link outs to project materials (websites, scientific papers, etc.) (everyone, just add links here)
 
 ## Overview of the documentation
 
